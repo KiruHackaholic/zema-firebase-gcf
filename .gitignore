@@ -1,0 +1,19 @@
+# Created by https://www.gitignore.io/api/firebase,visualstudiocode
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+**/service_account.json
+
+### Firebase Patch ###
+.runtimeconfig.json
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+text
